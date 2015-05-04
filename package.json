@@ -1,0 +1,22 @@
+{
+  "name": "reactjs-test1",
+  "version": "1.0.0",
+  "description": "Playing with ReactJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/taydakov/reactjs-test1"
+  },
+  "author": "Lev Taydakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taydakov/reactjs-test1/issues"
+  },
+  "homepage": "https://github.com/taydakov/reactjs-test1",
+  "devDependencies": {
+    "react": "^0.13.2"
+  }
+}
